@@ -7,7 +7,9 @@
 // Luckily, if Bobby’s big sis is there, she will sort the bully out and Bobby is safe regardless.
 
 function ballPool(mumDistance, bullyDistance, kidSpeed, bullySpeed, bigSis) {
-  //write cool code here...
+  //write coool code here...
+  return "kid safe";
+  return "kid whacked";
 }
 
 module.exports = { ballPool };

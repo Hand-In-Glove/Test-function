@@ -5,7 +5,7 @@ test("time to mum is less than time to bully", () => {
 });
 
 test("time to mum is greater than time to bully", () => {
-  expect(ballPool(6, 6, 2, 1, true)).toBe("kid whacked");
+  expect(ballPool(6, 2, 2, 1, true)).toBe("kid safe");
 });
 
 test("time to mum is greater than time to bully", () => {
